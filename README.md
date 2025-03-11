@@ -8,4 +8,4 @@ our results, we argue that this dataset should contain a high amount of high qua
 where the majority of humans are expected to assign the attack label when classifying
 them under a time constraint. Some examples from this dataset are shown below.
 
-<img src='https://anonymous.4open.science/r/IBAE-Generation-D1EF/samples.png'>
+<img src='https://anonymous.4open.science/r/IBAE-Generation-4FDA/samples.png'>
